@@ -5,11 +5,11 @@
   "enabled": true,
   "minimum_version": "1.0.2",
   "expires_at": "2036-01-01T00:00:00Z",
-  "message": "",
-  "latest_version": "1.0.2",
+  "message": "Bổ sung thông tin phiên bản, ngày cài/cập nhật, kiểm tra policy và reset cấu hình an toàn.",
+  "latest_version": "1.0.3",
   "installer_url": "",
   "installer_sha256": "",
   "force_update": false,
-  "issued_at": "2026-09-12T11:51:22.537370+00:00",
-  "signature": "XUDTs/Nx5yDvP+5j7Cin2zK7e0MWjRSxakz1vhGll7w/1HyJ9sb9wywJmR16psmhCNyCMkLO4oeHhipUHRUzOp0mAZz+6NEDujcAkm/r9lKH5bKg5SjDnTCX40vMVSOw+luEfgzljbHRCHtyrW3+2JQANjykBRGEVhx65QEHLKkaFk8Z6dWtbcRJ35t7BEPBJMqrzo9bM31wmyAwfldNyTonKL97SwjmTLiUQs9CApxvnyDoF008w6cU060Cfq3Se7WCwiQr5OXHj9mrEE/elA/n+aYgCFpLek+P7kXF/5fE9hWBz6VtAqEOmEeAjcvGGhinrT+FM826Rd8Zqtr3+Z47mWXYyMVdo8wFQA8lyhpkUEmFDU8nyGt8RDZk8ILnPyIZ2F5kycjgPJIj9leY40jyjrknRNm6H71rHWR1Ap+N2GX9zWWWqQYw47yZfbaExBbaY18tH13a5JqWZW/WVP88XUf+ttQgqGeyIKmfoV4dSBTz+84R68gKHk93t1Ro"
+  "issued_at": "2026-09-12T12:19:24.192011+00:00",
+  "signature": "kG3MsKVBqOYXXzMcI/1oLVZ6zjVdlYzbBHELHcYXyYNJk2LEjCNuHYAD9pnMioKrLwJ6CT8xIMajHwJPpQ+yAp0rg1j5CFjHM4nAmgNK2Cqa+ETBST13eyxrTo71O1ZIv+C1tf0ToScBucQ7QdnlKlohQyRHtl6suZole52zCOYb6W4YcCWQvIe1tfT+MN+T+UJ+nEwxm0x7M+CRbEuD9f2vYx0ITwBC5rnPyQZrwVhEPJUVKh90VCRjclQPibGZNZBEsTVoxhVNtUCqPrFYtgkknzboXUzN2/sZPiJqiPwZvzNtUfO6is3/YmR1yAz85sm+tUH2I5MZJEZFALhk/JtjuiAJbYKs+mMMJKcmQuL488ZXOEegC7wFxtu7JTM0/HFsVlNqdDRTYY59wQM31NCbYqo7osfpM2ZXIOUhoiwZ5VNUhue5oJ/5FbYRC4d9T1xzo7nAWqUV6e3mzKPFNyebDID9XFWNyqXk4Bwt8IZa7xBDPwGjXge5DUCZWQlU"
 }
