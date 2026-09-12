@@ -3,13 +3,13 @@
   "product_id": "affiliate-video-ai-studio",
   "edition": "team",
   "enabled": true,
-  "minimum_version": "1.0.0",
+  "minimum_version": "1.0.1",
   "expires_at": "2036-01-01T00:00:00Z",
   "message": "",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "installer_url": "",
   "installer_sha256": "",
   "force_update": false,
-  "issued_at": "2026-09-12T07:03:08.693534+00:00",
-  "signature": "sEJ/vrtDxMDaYY3PjO9oeoPkX0bzdRCdAq1Ynv0tU0zocGj/FQgJNHGzbBL6OL4bTIKU/+rklhzL1tKHgJtw0L5BEplXLToc419UiKBStq4wIC7hzEqChU76juVSB20ryMEFSrV7hOJ5fOq/nlQxWY6vBsS7quR2pdnmEkQ7oC7Iv73H6aWTCND13MyHaLn2viTTHpHezEuo6dN7jZPbxwXkGIts5vC0lN2Tw3kyqHZKf/jSjovRaTU5JnckJ9+m059IaqNia656wIKW0ldQuRm0ACrKoVyPZ71CFWKcIvstFGGVCVJVxJTPjql50rv/1LwGrpCdmavd6g9r9e8ns2jd3CDw1MJFyenVYDEF6xhzANsp0wf9C1PuIpEO+7qQ3M+nibqUo/Vuy7u4QfIXjdlKHB0BeP9x/xq4dAdFlFzpaArkp6OG5YGDGK6BFIuesATUoGNA5SfkMgdynVev+1DwqgBvQ436p6mK/EOK1GgIzTGceIKCiVNvondc5PS+"
+  "issued_at": "2026-09-12T08:19:13.489253+00:00",
+  "signature": "sn4oCjsC2z6zPgTMGv5SYRPU+8fxn5johx6DABPJB9S1Egkbp4qnsvQQhHfHQF+5mZrkkg5HsnxTqQx18/tnOmXP6NapO9XqQTZULPb+vB48dsaSExEYp0fFi/+oGEtan/hYDvrZQqX65p6tXMLWIjjFJhQLa6JvJJ0l5jvhQcQZHQNiC7k1895MuKKsZLtNjNTgIWUKHeBMr/QLpo4HFrWUKf4Hj9/ZeHwMVEJ3g/bVjwpXCEs2/5Z1CYHvVQ3LDCui2Y7hFbC+zhQ/VaEO2TjjyNtKYzs6Li6Qb44l1rMEVMt0nrky5Pcb4bDKJEFS5UI72x5VNTIJ1rFuzgPvhLXCdZhNfnl/sDz6Mixs/X1VbAbQcXuNobZIVKXq+Ffr7Xfea+zYSgPClVcLL6ugRN0RVFiMFwWDos/TglqIs8xE4nPHDuamkFZGOtig5uJE+120W54cEksfiSG78eBRJmM58nJjaNkT49Ctkbe8x4LzxTOMwbTjrZnuEjjQ/axd"
 }
