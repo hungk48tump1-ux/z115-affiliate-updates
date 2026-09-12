@@ -5,11 +5,11 @@
   "enabled": true,
   "minimum_version": "1.0.2",
   "expires_at": "2036-01-01T00:00:00Z",
-  "message": "Bổ sung thông tin phiên bản, ngày cài/cập nhật, kiểm tra policy và reset cấu hình an toàn.",
-  "latest_version": "1.0.3",
+  "message": "Đổi Reset ứng dụng thành Khởi động lại ứng dụng, không xóa dữ liệu.",
+  "latest_version": "1.0.4",
   "installer_url": "",
   "installer_sha256": "",
   "force_update": false,
-  "issued_at": "2026-09-12T12:19:24.192011+00:00",
-  "signature": "kG3MsKVBqOYXXzMcI/1oLVZ6zjVdlYzbBHELHcYXyYNJk2LEjCNuHYAD9pnMioKrLwJ6CT8xIMajHwJPpQ+yAp0rg1j5CFjHM4nAmgNK2Cqa+ETBST13eyxrTo71O1ZIv+C1tf0ToScBucQ7QdnlKlohQyRHtl6suZole52zCOYb6W4YcCWQvIe1tfT+MN+T+UJ+nEwxm0x7M+CRbEuD9f2vYx0ITwBC5rnPyQZrwVhEPJUVKh90VCRjclQPibGZNZBEsTVoxhVNtUCqPrFYtgkknzboXUzN2/sZPiJqiPwZvzNtUfO6is3/YmR1yAz85sm+tUH2I5MZJEZFALhk/JtjuiAJbYKs+mMMJKcmQuL488ZXOEegC7wFxtu7JTM0/HFsVlNqdDRTYY59wQM31NCbYqo7osfpM2ZXIOUhoiwZ5VNUhue5oJ/5FbYRC4d9T1xzo7nAWqUV6e3mzKPFNyebDID9XFWNyqXk4Bwt8IZa7xBDPwGjXge5DUCZWQlU"
+  "issued_at": "2026-09-12T12:40:09.184722+00:00",
+  "signature": "fCl+xKd2EM2s1eagK60PonEpIAGZlNuIz5ODxGGtCvVEpxb82nrNbxPLw1CsP5yUb10k6qEV9PUvlCEHqzTo3ZuR6krSpaeB3p8xmbFsyOK5Anyxl+RvnsF5iaUcleWMxoDRk4IS6vk82AbcLXohh4uAczqwPoMpaXjGqB14HEuoOYCo2Opw4zu1SS/XOJ7ZBADIng8icywy9Kt9vs1e99HkzPAYUIuOi49vMNe7zz2YpYnJtM4qqj9mOUwxJn1QvpA5bQgAZAI+15TBAoeAlo7d4zrgVkLd5dJME8EnlI2cGug8CuODhELgFDnOnJ49efP51hdgbOqDiU7r+ZcmbqylEJy34XFvAJ4WvmXA7f+8yjbqFBUTEv4TkEb89nmsIa52fgYvrfzooX37LS+XyV6f23SZtnOsFSszXpoAQt4N2oz7+JhgxWRQCu7qdmrayIoapr9EfSzr17KA4rcFheXk9neUNAunZkf1TjieOGADgfDkyLe9eBvD/INsVMun"
 }
