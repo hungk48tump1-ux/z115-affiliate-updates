@@ -3,13 +3,13 @@
   "product_id": "affiliate-video-ai-studio",
   "edition": "team",
   "enabled": true,
-  "minimum_version": "1.0.2",
+  "minimum_version": "1.0.10",
   "expires_at": "2036-01-01T00:00:00Z",
-  "message": "Đổi Reset ứng dụng thành Khởi động lại ứng dụng, không xóa dữ liệu.",
-  "latest_version": "1.0.4",
+  "message": "",
+  "latest_version": "1.0.10",
   "installer_url": "",
   "installer_sha256": "",
   "force_update": false,
-  "issued_at": "2026-09-12T12:40:09.184722+00:00",
-  "signature": "fCl+xKd2EM2s1eagK60PonEpIAGZlNuIz5ODxGGtCvVEpxb82nrNbxPLw1CsP5yUb10k6qEV9PUvlCEHqzTo3ZuR6krSpaeB3p8xmbFsyOK5Anyxl+RvnsF5iaUcleWMxoDRk4IS6vk82AbcLXohh4uAczqwPoMpaXjGqB14HEuoOYCo2Opw4zu1SS/XOJ7ZBADIng8icywy9Kt9vs1e99HkzPAYUIuOi49vMNe7zz2YpYnJtM4qqj9mOUwxJn1QvpA5bQgAZAI+15TBAoeAlo7d4zrgVkLd5dJME8EnlI2cGug8CuODhELgFDnOnJ49efP51hdgbOqDiU7r+ZcmbqylEJy34XFvAJ4WvmXA7f+8yjbqFBUTEv4TkEb89nmsIa52fgYvrfzooX37LS+XyV6f23SZtnOsFSszXpoAQt4N2oz7+JhgxWRQCu7qdmrayIoapr9EfSzr17KA4rcFheXk9neUNAunZkf1TjieOGADgfDkyLe9eBvD/INsVMun"
+  "issued_at": "2026-09-22T15:39:09.576545+00:00",
+  "signature": "e63thfF0GUoUvlOqtu+qVxioXWp0EcRnzg6GPykJ9LKMQKLHIgh+Q04vGieKRKbw91r62fyvSptCTDUGJNYz9M/s2fkQlj8uv03avk831n8iUqRs9VKMdD5SV80V33g1pHd5Aj5/isOscu3m0R4L/fRCLGSqn3MsPSWDf7N4dQb3GtloMFawg6nUFYQK0a3GJVXNfwidqXjxC5A/KGRJ1fR47OzFkY+AeAfo9cFmHVPV+iXy36OJpMVVpSz8YxxTRStFkQe7NkvPMNp2pItuBKoC824xQ2/LmjpfRRqWrBXVUTeq8T7fPY/6ao03JQOVg5TtfpJgWSf+lVQbnpztGRUqdA4IMT5JpBWjq2hDv/Wfq2jTyDRxwUi15catlCt4dpmpFoMXQi8RGiz+JUf3VWiqhceAlL/U1fB5WoP+8g8ojFPbuU3dx/sjDH7Dk2son619XF8nVZD7N2QHIGzxTUFDfzjFbcS8LgEdXKQnDgX6UvvA53eg4mglCOtQ+cty"
 }
